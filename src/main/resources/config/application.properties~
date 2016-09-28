@@ -1,2 +1,2 @@
 app.host=localhost
-app.port=8085
+app.port=8080
